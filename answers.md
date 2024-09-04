@@ -37,7 +37,10 @@ Author: John Steel <js948123@ohio.edu>
 Date:   Wed Sep 4 16:32:06 2024 -0400
 
     Initial commit
-9. 
+9. Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+ 
 10. they are the same as the last time that I pushed them to the github repo, so this answer won't show up until I commit and push the current changes to github
 11. The changes are now 
 12. changes up until my 9th answer
