@@ -43,7 +43,7 @@ nothing to commit, working tree clean
 
 10. No, the changes are not in my local repository, only the github.
 11. The push was rejected because of the changes I made to the online repo
-12. nothing was changed in my current directory
+12. The changes were made in my local repo
 13. . .. .git README.md answers
 
 
